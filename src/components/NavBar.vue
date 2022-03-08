@@ -21,6 +21,7 @@
               <li><a class="dropdown-item" href="/rebuild">Internal Website Rebuild</a></li>
               <li><a class="dropdown-item" href="/validations">Lab Validations</a></li>
               <li><a class="dropdown-item" href="/webapps">Other Web Apps</a></li>
+              <li><a class="dropdown-item" href="https://github.com/mkscanland">GitHub</a></li>
             </ul>
           </li>
           <li class="nav-item dropdown">
