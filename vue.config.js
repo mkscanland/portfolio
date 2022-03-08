@@ -16,6 +16,13 @@ module.exports = defineConfig({
       title: 'Internal Rebuild',
       chunks: ['chunk-vendors', 'chunk-common', 'rebuild'],
     },
+    'randomforest': {
+      entry: './src/pages/RandomForest/main.js',
+      template: 'public/index.html',
+      filename: "randomforest.html",
+      title: 'Random Forest',
+      chunks: ['chunk-vendors', 'chunk-common', 'randomforest'],
+    },
     'validations': {
       entry: './src/pages/LabValidations/main.js',
       template: 'public/index.html',
