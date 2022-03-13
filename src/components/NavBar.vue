@@ -13,26 +13,26 @@
           <li class="nav-item">
             <a class="nav-link" href="/files/2022-03-01_Matthew_Scanland_resume.pdf">Resume</a>
           </li>
-          <li class="nav-item">
-            <a class="nav-link dropdown-toggle" href="/#significantProjects" aria-expanded="false">
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="/#significantProjects" data-bs-toggle="dropdown">
               Portfolio
             </a>
-            <ul class="dropdown-menu">
-              <li><a class="dropdown-item" href="/rebuild">Internal Website Rebuild</a></li>
-              <li><a class="dropdown-item" href="/randomforest">Random Forest</a></li>
-              <li><a class="dropdown-item" href="/validations">Lab Validations</a></li>
-              <li><a class="dropdown-item" href="/webapps">Other Web Apps</a></li>
-              <li><a class="dropdown-item" href="https://github.com/mkscanland">GitHub</a></li>
-            </ul>
+            <div class="dropdown-menu">
+              <a class="dropdown-item" href="/rebuild">Internal Website Rebuild</a>
+              <a class="dropdown-item" href="/randomforest">Random Forest</a>
+              <a class="dropdown-item" href="/validations">Lab Validations</a>
+              <a class="dropdown-item" href="/webapps">Other Web Apps</a>
+              <a class="dropdown-item" href="https://github.com/mkscanland">GitHub</a>
+            </div>
           </li>
           <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle" href="/#contact" aria-expanded="false">
+            <a class="nav-link dropdown-toggle" href="/#contact" data-bs-toggle="dropdown">
               Contact
             </a>
-            <ul class="dropdown-menu">
-              <li><a class="dropdown-item" href="https://www.linkedin.com/in/matthew-scanland/">LinkedIn</a></li>
-              <li><a class="dropdown-item" href="mailto:mkscanland@gmail.com">Email</a></li>
-            </ul>
+            <div class="dropdown-menu">
+              <a class="dropdown-item" href="https://www.linkedin.com/in/matthew-scanland/">LinkedIn</a>
+              <a class="dropdown-item" href="mailto:mkscanland@gmail.com">Email</a>
+            </div>
           </li>
         </ul>
       </div>
