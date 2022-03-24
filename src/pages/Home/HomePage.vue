@@ -8,7 +8,7 @@
         </p>
         <div class="d-grid gap-2 d-sm-flex justify-content-sm-center">
           <a class="btn btn-outline-info btn-lg px-4 me-sm-3 fw-bold" href="#significantProjects">My Portfolio</a>
-          <a class="btn btn-outline-light btn-lg px-4" href="/files/2022-03-01_Matthew_Scanland_resume.pdf">Resume</a>
+          <a class="btn btn-outline-light btn-lg px-4" href="/files/Matthew-Scanland_Resume.pdf">Resume</a>
         </div>
       </div>
     </div>
@@ -21,7 +21,7 @@
         <p>
           <span class="small">Bachelor's of Computer Science from Virginia Tech</span>
         </p>
-        <a class="btn btn-outline-light btn-lg px-4" href="/files/2022-03-01_Matthew_Scanland_resume.pdf">Resume</a>
+        <a class="btn btn-outline-light btn-lg px-4" href="/files/Matthew-Scanland_Resume.pdf">Resume</a>
       </div>
     </div>
   </div>

@@ -11,7 +11,7 @@
             <a class="nav-link active" aria-current="page" href="/">Home</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="/files/2022-03-01_Matthew_Scanland_resume.pdf">Resume</a>
+            <a class="nav-link" href="/files/Matthew-Scanland_Resume.pdf">Resume</a>
           </li>
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="/#significantProjects" data-bs-toggle="dropdown">
