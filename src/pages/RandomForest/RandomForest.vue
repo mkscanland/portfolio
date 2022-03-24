@@ -38,14 +38,10 @@
           <div class="p-4 border-bottom bg-light rounded">
             <h4 class="fst-italic">Hyperparameter Tuning</h4>
             <p>
-              <b>Back-end</b><br>
-              MySQL can handle large datasets and has fast query processing. The main website was built on PHP so importing the core functionality was simple. PHP is also very simple to use and is fairly reliable. phpCAS was used for extra security. It required little setup since Virginia Tech already provides the 2-factor authentication.
+              Hyperparameters are the parameters when building a Random Forest that can help to fine-tune predictions. A break-down of each hyperparameter follows:
             </p>
           </div>
           <div class="p-4 border-bottom bg-light rounded">
-            <p>
-              Hyperparameters are the parameters when building a Random Forest that can help to fine-tune predictions. A break-down of each hyperparameter follows:
-            </p>
             <ul>
               <li>
                 numTrees -- Increases accuracy but increases computational time.
