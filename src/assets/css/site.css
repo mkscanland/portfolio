@@ -5,15 +5,38 @@
 	.navbar .nav-item .dropdown-menu{ margin-top:0; }
 }
 
+.blue{
+	color: skyblue;
+}
+
+.blue.textBorder{
+	color: skyblue;
+	font-weight: bold;
+	text-shadow:
+	-1px -1px 0 #000,
+	1px -1px 0 #000,
+	-1px 1px 0 #000,
+	1px 1px 0 #000;
+}
+
+.ulShadow{
+	box-shadow: 0 8px 6px -6px black;
+}
+
 .mainWrapper{
 	flex-direction: column !important;
 	min-height: calc(100vh - 56px) !important;
 	display: flex !important;
+	background-color: #212529;
+}
+
+.projectImg{
+	min-height: 20em;
+	max-height: 30em;
 }
 
 body{
 	background-color: #212529;
-	color: #fff;
 	height: 100%;
 }
 
@@ -59,9 +82,26 @@ body{
 
 	.wrapperSection.bg-spotlight{
 		background: url("~@/assets/images/banner.jpg") center center;
-		  background-size: auto;
+		background-size: auto;
 		background-size: cover;
 	}
+
+	.wrapperSection.bg-lightbulb{
+		background: url("~@/assets/images/lightbulb-bg.jpg") center center;
+		background-size: auto;
+		background-size: cover;
+	}
+
+	.wrapperSection.bg-computer{
+		background: url("~@/assets/images/computer-bg.jpg") center center;
+		background-size: auto;
+		background-size: cover;
+	}
+
+/*Bootstrap Additions*/
+.bottom-20{
+	bottom:20% !important;
+}
 
 .whiteBox{
 	padding: 2em;
@@ -146,3 +186,97 @@ body{
 	  height: 38px;
 	  background-image: url('~@/assets/images/shadow.png');
 	}
+
+/*Overlayed Images*/
+.projectContainer{
+  position: relative;
+  width: 100%;
+  overflow: hidden;
+	height: 400px;
+	max-height: 400px;
+}
+
+.projectContainer.hasMore{
+  cursor: pointer;
+}
+
+.projectContainer img{
+	height: 100%;
+	width: 100%;
+	object-fit: cover;
+	filter: brightness(30%);
+}
+
+.projectContainer a{
+	color: lightblue;
+}
+
+.projectContainer p{
+	color: white;
+	text-shadow:
+	-1px -1px 0 #000,
+	1px -1px 0 #000,
+	-1px 1px 0 #000,
+	1px 1px 0 #000;
+}
+
+.projectContainer .projectTitle{
+	color: skyblue;
+	text-shadow:
+	-1px -1px 0 #000,
+	1px -1px 0 #000,
+	-1px 1px 0 #000,
+	1px 1px 0 #000;
+}
+
+.projectContainer .overlay {
+  position: absolute;
+  bottom: 0;
+  padding: 15px;
+  width: 100%;
+  z-index: 5;
+}
+
+.projectContainer .overlay::before{
+  content: "";
+  background: #000;
+  height: 100%;
+  width: 100%;
+  z-index: 1;
+  position: absolute;
+  left: 0;
+  bottom: -500px;
+  z-index: -2;
+  opacity: 0.5;
+  transition: all 0.3s ease-out;
+}
+
+.projectContainer:hover .overlay::before{
+  bottom: 0px;
+}
+
+.projectContainer:hover .overlay::after{
+  position: absolute;
+  bottom: 0;
+	text-shadow:
+	-1px -1px 0 #000,
+	1px -1px 0 #000,
+	-1px 1px 0 #000,
+	1px 1px 0 #000;
+}
+
+.projectContainer.hasMore:hover .overlay::after{
+	color: skyblue;
+  content: "Click for More";
+}
+
+.modal-body img{
+	max-width: 80%;
+	max-height: 40vh;
+	object-fit: cover;
+}
+
+.modal-body img:hover{
+	transition: all 0.3s ease-in-out;
+	transform: scale(1.75);
+}

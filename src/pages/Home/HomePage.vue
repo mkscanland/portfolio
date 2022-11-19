@@ -4,7 +4,8 @@
       <h1 class="display-5 fw-bold text-white">Matthew Scanland</h1>
       <div class="col-lg-6 mx-auto">
         <p class="fs-5 mb-4">
-          Welcome to my portfolio website. Please take a look around. I'm currently still building the website so some functionality will be diminished.
+          Welcome to my portfolio website. Please take a look around.<br>
+          For any questions feel free to <a href="/#contact">Contact Me</a>.
         </p>
         <div class="d-grid gap-2 d-sm-flex justify-content-sm-center">
           <a class="btn btn-outline-info btn-lg px-4 me-sm-3 fw-bold" href="#significantProjects">My Portfolio</a>
@@ -17,7 +18,7 @@
     <div class="title">Career</div>
     <div class="row py-lg-5">
       <div class="col-lg-6 col-md-8 mx-auto whiteBox">
-        <h1>Full-stack Developer and IT Specialist</h1>
+        <h1>Software Engineer and IT Specialist</h1>
         <p>
           <span class="small">Bachelor's of Computer Science from Virginia Tech</span>
         </p>
@@ -25,16 +26,16 @@
       </div>
     </div>
   </div>
-  <div class="wrapperSection bg-light position-relative text-dark px-4 text-center">
+  <div class="wrapperSection bg-light position-relative text-dark px-4">
     <div class="title">About Me</div>
     <div class="row py-lg-5">
       <div class="col-lg-8 col-md-10 mx-auto">
-        <img src="~@/assets/images/scanland_matthew.jpg" class="img-fluid rounded" alt="Picture of me at a farm">
-        <p class="lead text-muted pt-3">
+        <img src="~@/assets/images/scanland_matthew.jpg" class="img-fluid rounded mx-auto d-block" alt="Picture of me at a farm">
+        <p class="lead text-muted pt-3 mx-5">
           I received my BA of Computer Science from Virginia Tech in January 2019, specializing in Human Computer Interaction. My favorite hobbies are reading, gaming, hiking, and relaxing with my family and their dogs. At the moment I am working for Virginia Tech under the research organization 'Center for Power Electronics Systems' as a Full-Stack Developer and IT Specialist.<br>
           During my time at CPES I have designed and implemented several large projects. While implementing these projects I work with a team of students and faculty to create programs when needed.<br>
-          I specialize in back-end engineering and enjoy website development. I am well versed in Java, Javascript/JQuery, CSS, HTML, PHP, and SQL with an understanding of C, scheme, and python.<br>
-          While working on projects I believe in focusing on effecient and readable designs to maximize positive user and programmer experience. 
+          I specialize in back-end engineering and enjoy website application development. I am well versed in Javascript/JQuery, CSS, HTML, PHP, Python, and SQL with an understanding of C.<br>
+          While working on projects I believe in focusing on effecient and readable designs to maximize positive user and programmer experience.
         </p>
       </div>
     </div>
@@ -108,8 +109,8 @@
               <div>
                 <h2>Self Improvement</h2>
                 <p>
-                  This website is a pet project to learn AWS and Vue. I'll be updating it when I have the time.<br>
-                  I also research various subjects for my job. Most of the time I need to learn best practices before I'm able to work on another application for the CPES websites and IT systems.
+                  This website is a pet project to learn AWS, Azure, and Vue. I'll be updating it when I have the time.<br>
+                  I also research various IT and software subjects for my job. Most of the time I need to learn best practices before I'm able to work on another application for the CPES websites and IT systems. Preparing for most situations and truly learning a subject before implementing a new system has saved a lot of time and man-hours in the future.
                 </p>
               </div>
             </div>
@@ -129,9 +130,12 @@
                 <svg class="bi" width="1em" height="1em"><use xlink:href="#toggles2"></use></svg>
               </div>
               <div>
-                <h2>ML Automated Categorization</h2>
+                <h2>Azure</h2>
                 <p>
-                  I'm in the analysis stage of creating a way to automatically categorize papers on the main CPES website. I plan to use Python and a pre-built Spatie Crawler to parse and categorize papers based on select features. This will automate the process and save valuable human work hours.
+                  I plan on using Azure as a main cloud provider for personal and work projects.<br>
+                  <b>Work:</b> An Azure Data Lake is being set up for CPES archives. Using the REST API we plan to provide a brief snapshot of the files inside the archive for Staff and Faculty. This information will be stored in a MariaDB to prevent too many queries.<br>
+                  <b>Personal:</b> I plan on using a few PaaS/SaaS resources to build my portfolio.<br>
+                  I'm working on my AZ-900 Certification Exam.
                 </p>
               </div>
             </div>
@@ -150,7 +154,7 @@
             <div class="col d-flex align-items-start">
               <svg class="bi text-muted flex-shrink-0 me-4" width="1.75em" height="1.75em"><use xlink:href="#bootstrap"></use></svg>
               <div>
-                <h4 class="fw-bold mb-0">Radability</h4>
+                <h4 class="fw-bold mb-0">Readability</h4>
                 <p>
                   Writing code that others are able to understand and read easily is one of my biggest goals. With my code I can ensure future updates are more easily implemented and bugs are fixed quickly.
                 </p>

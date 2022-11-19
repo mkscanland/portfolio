@@ -2,7 +2,7 @@
   <div class="mainWrapper">
     <NavBar/>
     <div class="mainContent">
-      <UnderDevelopment/>
+      <WebApplications/>
     </div>
   </div>
   <SiteFooter/>
@@ -10,13 +10,13 @@
 
 <script>
 import NavBar from '../../components/NavBar.vue'
-import UnderDevelopment from '../../components/UnderDevelopment.vue'
+import WebApplications from './WebApplications.vue'
 import SiteFooter from '../../components/SiteFooter.vue'
 
 export default {
   components: {
     NavBar,
-    UnderDevelopment,
+    WebApplications,
     SiteFooter,
   },
 }

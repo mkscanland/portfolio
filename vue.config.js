@@ -30,12 +30,26 @@ module.exports = defineConfig({
       title: 'Lab Validations',
       chunks: ['chunk-vendors', 'chunk-common', 'validations'],
     },
+    'annualreports': {
+      entry: './src/pages/AnnualReports/main.js',
+      template: 'public/index.html',
+      filename: "annualreports.html",
+      title: 'Annual Reports',
+      chunks: ['chunk-vendors', 'chunk-common', 'annualreports'],
+    },
     'webapps': {
       entry: './src/pages/WebApplications/main.js',
       template: 'public/index.html',
       filename: "webapps.html",
       title: 'Web Apps',
       chunks: ['chunk-vendors', 'chunk-common', 'webapps'],
+    },
+    'itsystems': {
+      entry: './src/pages/ITSystems/main.js',
+      template: 'public/index.html',
+      filename: "itsystems.html",
+      title: 'IT Systems',
+      chunks: ['chunk-vendors', 'chunk-common', 'itsystems'],
     },
   }
 })
