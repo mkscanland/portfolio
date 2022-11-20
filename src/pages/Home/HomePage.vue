@@ -9,7 +9,7 @@
         </p>
         <div class="d-grid gap-2 d-sm-flex justify-content-sm-center">
           <a class="btn btn-outline-info btn-lg px-4 me-sm-3 fw-bold" href="#significantProjects">My Portfolio</a>
-          <a class="btn btn-outline-light btn-lg px-4" href="/files/Matthew-Scanland_Resume.pdf">Resume</a>
+          <a class="btn btn-outline-light btn-lg px-4" href="/files/Matthew-Scanland_Resume.pdf"><i class="fa fa-file-pdf"></i> Resume</a>
         </div>
       </div>
     </div>
@@ -22,7 +22,7 @@
         <p>
           <span class="small">Bachelor's of Computer Science from Virginia Tech</span>
         </p>
-        <a class="btn btn-outline-light btn-lg px-4" href="/files/Matthew-Scanland_Resume.pdf">Resume</a>
+        <a class="btn btn-outline-light btn-lg px-4" href="/files/Matthew-Scanland_Resume.pdf"><i class="fa fa-file-pdf"></i> Resume</a>
       </div>
     </div>
   </div>
@@ -46,13 +46,11 @@
     <div class="row py-lg-5">
       <div class="col-lg-8 col-md-10 mx-auto">
         <div class="container px-4">
-          <h2 class="pb-2 border-bottom">Wed Applications</h2>
+          <h2 class="pb-2 border-bottom">Web Applications</h2>
           <div class="row g-4 py-5 row-cols-1 row-cols-lg-3">
             <div class="col d-flex align-items-start">
-              <div class="icon-square text-dark flex-shrink-0 me-3">
-              </div>
               <div>
-                <h2>Internal Website Rebuild</h2>
+                <h2><i class="fa fa-server small"></i> Internal Website Rebuild</h2>
                 <p>
                   <span class="small">Sep 2019 – Now</span><br>
                   A complete overhaul of a previous version of the internal support website and continued development. This website is designed to help our students, faculty, staff, and visiting scholars access information and communicate with eachother more efficiently. It houses several web apps that help coordinate purchases, internal leave, help, and many other aspects.
@@ -63,11 +61,8 @@
               </div>
             </div>
             <div class="col d-flex align-items-start">
-              <div class="icon-square text-dark flex-shrink-0 me-3">
-                <svg class="bi" width="1em" height="1em"><use xlink:href="#toggles2"></use></svg>
-              </div>
               <div>
-                <h2>Lab Validation System</h2>
+                <h2><i class="fa fa-calendar small"></i> Lab Validation System</h2>
                 <p>
                   <span class="small">Aug 2019 – Dec 2019</span><br>
                   Complete build of the internal Lab Validation System. This system tracks student hours, accounts, holidays, vacations, and other facets. An interface for admin staff allows the manipulation of data, view of statistics, export of data, etc.
@@ -78,12 +73,10 @@
               </div>
             </div>
             <div class="col d-flex align-items-start">
-              <div class="icon-square text-dark flex-shrink-0 me-3">
-                <svg class="bi" width="1em" height="1em"><use xlink:href="#toggles2"></use></svg>
-              </div>
               <div>
-                <h2>Other Web Applications</h2>
+                <h2><i class="fa fa-book-open small"></i> Other Web Applications</h2>
                 <p>
+                  <span class="small">April 2019 – Now</span><br>
                   Throughout my time at CPES I have created several requested web apps. These include; Purchasing, Lab Reservations, Internal Vacations, Conference Room Reservations, and more.
                 </p>
                 <a href="/webapps" class="btn btn-info">
@@ -103,11 +96,8 @@
           <h2 class="pb-2 border-bottom">Current Projects</h2>
           <div class="row g-4 py-5 row-cols-1 row-cols-lg-3">
             <div class="col d-flex align-items-start">
-              <div class="icon-square text-dark flex-shrink-0 me-3">
-                <svg class="bi" width="1em" height="1em"><use xlink:href="#toggles2"></use></svg>
-              </div>
               <div>
-                <h2>Self Improvement</h2>
+                <h2><i class="fa fa-brain small"></i> Self Improvement</h2>
                 <p>
                   This website is a pet project to learn AWS, Azure, and Vue. I'll be updating it when I have the time.<br>
                   I also research various IT and software subjects for my job. Most of the time I need to learn best practices before I'm able to work on another application for the CPES websites and IT systems. Preparing for most situations and truly learning a subject before implementing a new system has saved a lot of time and man-hours in the future.
@@ -115,22 +105,16 @@
               </div>
             </div>
             <div class="col d-flex align-items-start">
-              <div class="icon-square text-dark flex-shrink-0 me-3">
-                <svg class="bi" width="1em" height="1em"><use xlink:href="#toggles2"></use></svg>
-              </div>
               <div>
-                <h2>Tie the Support Back-end Together</h2>
+                <h2><i class="fa fa-object-group small"></i> Tie the Support Back-end Together</h2>
                 <p>
                   As I develop more applications on the support, CPES internal, website the back-end is beginning to grow exponentially. While designing these applications I have been accounting for this growth by looking for ways to tie these systems together when applicable.
                 </p>
               </div>
             </div>
             <div class="col d-flex align-items-start">
-              <div class="icon-square text-dark flex-shrink-0 me-3">
-                <svg class="bi" width="1em" height="1em"><use xlink:href="#toggles2"></use></svg>
-              </div>
               <div>
-                <h2>Azure</h2>
+                <h2><i class="fa fa-cloud small"></i> Azure</h2>
                 <p>
                   I plan on using Azure as a main cloud provider for personal and work projects.<br>
                   <b>Work:</b> An Azure Data Lake is being set up for CPES archives. Using the REST API we plan to provide a brief snapshot of the files inside the archive for Staff and Faculty. This information will be stored in a MariaDB to prevent too many queries.<br>
@@ -152,27 +136,24 @@
           <h2 class="pb-2 border-bottom">Practices</h2>
           <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-3 g-4 py-5">
             <div class="col d-flex align-items-start">
-              <svg class="bi text-muted flex-shrink-0 me-4" width="1.75em" height="1.75em"><use xlink:href="#bootstrap"></use></svg>
               <div>
-                <h4 class="fw-bold mb-0">Readability</h4>
+                <h4 class="fw-bold mb-0"><i class="fa fa-eye small"></i> Readability</h4>
                 <p>
                   Writing code that others are able to understand and read easily is one of my biggest goals. With my code I can ensure future updates are more easily implemented and bugs are fixed quickly.
                 </p>
               </div>
             </div>
             <div class="col d-flex align-items-start">
-              <svg class="bi text-muted flex-shrink-0 me-4" width="1.75em" height="1.75em"><use xlink:href="#cpu-fill"></use></svg>
               <div>
-                <h4 class="fw-bold mb-0">Project Management</h4>
+                <h4 class="fw-bold mb-0"><i class="fa fa-list-check small"></i> Project Management</h4>
                 <p>
                   Two of the most important practices to have a project run smoothly is coordination and organization. Having these two skills will make or break a project.
                 </p>
               </div>
             </div>
             <div class="col d-flex align-items-start">
-              <svg class="bi text-muted flex-shrink-0 me-4" width="1.75em" height="1.75em"><use xlink:href="#calendar3"></use></svg>
               <div>
-                <h4 class="fw-bold mb-0">Communication</h4>
+                <h4 class="fw-bold mb-0"><i class="fa fa-comments small"></i> Communication</h4>
                 <p>
                   Working with a team comes into play in nearly every aspect of Software Development. Great communication skills drastically improve morale, coordination, direction, engagement, and productivity.
                 </p>
@@ -271,33 +252,29 @@
           <h2 class="pb-2 border-bottom">Feel Free to Use Any!</h2>
           <div class="row row-cols-1 row-cols-sm-2 row-cols-md-4 row-cols-lg-4 g-4 py-5">
             <div class="col d-flex align-items-start">
-              <svg class="bi text-muted flex-shrink-0 me-4" width="1.75em" height="1.75em"><use xlink:href="#bootstrap"></use></svg>
               <div>
-                <h4 class="fw-bold mb-0"><a href="https://www.linkedin.com/in/matthew-scanland/">LinkedIn</a></h4>
+                <h4 class="fw-bold mb-0"><a href="https://www.linkedin.com/in/matthew-scanland/"><i class="fa-brands fa-linkedin small"></i> LinkedIn</a></h4>
               </div>
             </div>
             <div class="col d-flex align-items-start">
-              <svg class="bi text-muted flex-shrink-0 me-4" width="1.75em" height="1.75em"><use xlink:href="#bootstrap"></use></svg>
               <div>
-                <h4 class="fw-bold mb-0">Email</h4>
+                <h4 class="fw-bold mb-0"><i class="fa fa-inbox small"></i> Email</h4>
                 <p>
                   <a href="mailto:mkscanland@gmail.com">mkscanland@gmail.com</a>
                 </p>
               </div>
             </div>
             <div class="col d-flex align-items-start">
-              <svg class="bi text-muted flex-shrink-0 me-4" width="1.75em" height="1.75em"><use xlink:href="#cpu-fill"></use></svg>
               <div>
-                <h4 class="fw-bold mb-0">Phone</h4>
+                <h4 class="fw-bold mb-0"><i class="fa fa-phone small"></i> Phone</h4>
                 <p>
                   (540) 267-5538
                 </p>
               </div>
             </div>
             <div class="col d-flex align-items-start">
-              <svg class="bi text-muted flex-shrink-0 me-4" width="1.75em" height="1.75em"><use xlink:href="#calendar3"></use></svg>
               <div>
-                <h4 class="fw-bold mb-0">Carrier Pigeon</h4>
+                <h4 class="fw-bold mb-0"><i class="fa fa-crow small"></i> Carrier Pigeon</h4>
                 <p>
                   Send to <q>The Bird Man</q>. He will relay the message shortly.
                 </p>
