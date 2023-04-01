@@ -9,7 +9,7 @@
         </p>
         <div class="d-grid gap-2 d-sm-flex justify-content-sm-center">
           <a class="btn btn-outline-info btn-lg px-4 me-sm-3 fw-bold" href="#significantProjects">My Portfolio</a>
-          <a class="btn btn-outline-light btn-lg px-4" href="/files/Matthew-Scanland_Resume.pdf"><i class="fa fa-file-pdf"></i> Resume</a>
+          <a class="btn btn-outline-light btn-lg px-4" href="/files/Scanland-Matthew_Resume.pdf"><i class="fa fa-file-pdf"></i> Resume</a>
         </div>
       </div>
     </div>
@@ -22,7 +22,7 @@
         <p>
           <span class="small">Bachelor's of Computer Science from Virginia Tech</span>
         </p>
-        <a class="btn btn-outline-light btn-lg px-4" href="/files/Matthew-Scanland_Resume.pdf"><i class="fa fa-file-pdf"></i> Resume</a>
+        <a class="btn btn-outline-light btn-lg px-4" href="/files/Scanland-Matthew_Resume.pdf"><i class="fa fa-file-pdf"></i> Resume</a>
       </div>
     </div>
   </div>
@@ -32,10 +32,9 @@
       <div class="col-lg-8 col-md-10 mx-auto">
         <img src="~@/assets/images/scanland_matthew.jpg" class="img-fluid rounded mx-auto d-block" alt="Picture of me at a farm">
         <p class="lead text-muted pt-3 mx-5">
-          I received my BA of Computer Science from Virginia Tech in January 2019, specializing in Human Computer Interaction. My favorite hobbies are reading, gaming, hiking, and relaxing with my family and their dogs. At the moment I am working for Virginia Tech under the research organization 'Center for Power Electronics Systems' as a Full-Stack Developer and IT Specialist.<br>
-          During my time at CPES I have designed and implemented several large projects. While implementing these projects I work with a team of students and faculty to create programs when needed.<br>
-          I specialize in back-end engineering and enjoy website application development. I am well versed in Javascript/JQuery, CSS, HTML, PHP, Python, and SQL with an understanding of C.<br>
-          While working on projects I believe in focusing on effecient and readable designs to maximize positive user and programmer experience.
+          I am a skilled software engineer with 4+ years of experience. Recognized for demonstrating a natural aptitude for leading technical projects, as well as for creating innovative web applications, I have a verifiable history of contributing directly to growth and expansion throughout my career. As such, I have consistently exceeded performance goals and I am adept at achieving maximum operational output with minimal resource expenditure. Professional focal points also include software development and backend design expertise, as well as numerous facets of tech tools and analytics excellence. Delivering superior administration on the latter areas of expertise requires utilization of effective communication skills, as well as resource management to support efficiency and maximum results.<br>
+          Currently, I am a Software Engineer at the Center for Power Electronics Systems, Virginia Tech. In this capacity, I design and develop web applications for the external and internal websites. I also have been recognized for improving custom-built PHP framework by modifying SQL queries and data retrieval algorithms. My role has allowed me to craft a number of solutions to facilitate automation efforts, database backups, and the optimization of performance and space requirements. I have additionally demonstrated superior team collaboration skills in deploying and maintaining Docker containers, Apache web servers, and SharePoint/Azure cloud storage. Furthermore, I liaise with senior leadership and departmental teams to ensure the center’s support structure is driving progress forward with minimal expenditures.<br>
+          Colleagues describe me as a progressive, motivated, and detail-oriented tech expert who can be relied on to offer superior solutions that consistently deliver positive results.
         </p>
       </div>
     </div>

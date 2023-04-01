@@ -10,8 +10,14 @@
           <li class="nav-item">
             <a class="nav-link active" aria-current="page" href="/">Home</a>
           </li>
-          <li class="nav-item">
-            <a class="nav-link" href="/files/Matthew-Scanland_Resume.pdf">Resume</a>
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="/files/Scanland-Matthew_Resume.pdf" data-bs-toggle="dropdown">
+              Resume
+            </a>
+            <div class="dropdown-menu">
+              <a class="dropdown-item" href="/files/Scanland-Matthew_Resume.pdf">Resume (pdf)</a>
+              <a class="dropdown-item" href="/files/Scanland-Matthew_Resume.docx">Resume (docx)</a>
+            </div>
           </li>
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="/#significantProjects" data-bs-toggle="dropdown">
@@ -24,6 +30,14 @@
               <a class="dropdown-item" href="/webapps">Other Web Apps</a>
               <a class="dropdown-item" href="/itsystems">IT Systems</a>
               <a class="dropdown-item" href="https://github.com/mkscanland">GitHub</a>
+            </div>
+          </li>
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="/#significantProjects" data-bs-toggle="dropdown">
+              Guides
+            </a>
+            <div class="dropdown-menu">
+              <a class="dropdown-item" href="/files/Azure-Data-Lake-Plan_Public Copy.pdf">Azure Data Lake Creation</a>
             </div>
           </li>
           <li class="nav-item dropdown">
