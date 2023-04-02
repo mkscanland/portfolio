@@ -17,6 +17,7 @@
             <div class="dropdown-menu">
               <a class="dropdown-item" href="/files/Scanland-Matthew_Resume.pdf">Resume (pdf)</a>
               <a class="dropdown-item" href="/files/Scanland-Matthew_Resume.docx">Resume (docx)</a>
+              <a class="dropdown-item" href="/files/Scanland-Matthew_CV.docx">CV (docx)</a>
             </div>
           </li>
           <li class="nav-item dropdown">
