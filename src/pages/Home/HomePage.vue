@@ -32,9 +32,11 @@
       <div class="col-lg-8 col-md-10 mx-auto">
         <img src="~@/assets/images/scanland_matthew.jpg" class="img-fluid rounded mx-auto d-block" alt="Picture of me at a farm">
         <p class="lead text-muted pt-3 mx-5">
-          I am a skilled software engineer with 4+ years of experience. Recognized for demonstrating a natural aptitude for leading technical projects, as well as for creating innovative web applications, I have a verifiable history of contributing directly to growth and expansion throughout my career. As such, I have consistently exceeded performance goals and I am adept at achieving maximum operational output with minimal resource expenditure. Professional focal points also include software development and backend design expertise, as well as numerous facets of tech tools and analytics excellence. Delivering superior administration on the latter areas of expertise requires utilization of effective communication skills, as well as resource management to support efficiency and maximum results.<br>
-          Currently, I am a Software Engineer at the Center for Power Electronics Systems, Virginia Tech. In this capacity, I design and develop web applications for the external and internal websites. I also have been recognized for improving custom-built PHP framework by modifying SQL queries and data retrieval algorithms. My role has allowed me to craft a number of solutions to facilitate automation efforts, database backups, and the optimization of performance and space requirements. I have additionally demonstrated superior team collaboration skills in deploying and maintaining Docker containers, Apache web servers, and SharePoint/Azure cloud storage. Furthermore, I liaise with senior leadership and departmental teams to ensure the center’s support structure is driving progress forward with minimal expenditures.<br>
-          Colleagues describe me as a progressive, motivated, and detail-oriented tech expert who can be relied on to offer superior solutions that consistently deliver positive results.
+          I am an experienced software engineer with over four years of professional experience. I work hard to create and improve the IT solutions and software at my Center.<br>
+          I am consistently recognized for exceeding performance goals and innovating new solutions to any problems that may come up. I really enjoy finding unique solutions to any issue that my coworkers and friends are facing.<br>
+          Currently, I am employed as a Software Engineer at the Virginia Tech. In this role, I design and develop web applications for the external and internal websites, along with manage all IT systems for my Center. I have accomplished a lot in my years at VT. Some of my significant projects you can see on this website. I have many more that I haven't put on here so if you have any questions feel free to <a href="#contact">reach out to me</a>.<br>
+          At CPES I try to lend a hand to anyone that is struggling and explain any topics that they are having difficulty with. I mainly work unsupervised so all of my projects I work on from the start to the finish. This gives me a nice understanding of how each finished solution will operate, allowing me to improve upon them further.<br>
+          I hope you enjoy this website and have a great rest of your day!
         </p>
       </div>
     </div>
@@ -76,7 +78,7 @@
                 <h2><i class="fa fa-book-open small"></i> Other Web Applications</h2>
                 <p>
                   <span class="small">April 2019 – Now</span><br>
-                  Throughout my time at CPES I have created several requested web apps. These include; Purchasing, Lab Reservations, Internal Vacations, Conference Room Reservations, and more.
+                  Throughout my time at CPES I have created several requested web apps. These include; Purchasing, Lab Validations, Internal Vacations, Conference Room Reservations, and more.
                 </p>
                 <a href="/webapps" class="btn btn-info">
                   See all other Support Website applications
@@ -99,7 +101,8 @@
                 <h2><i class="fa fa-brain small"></i> Self Improvement</h2>
                 <p>
                   This website is a pet project to learn AWS, Azure, and Vue. I'll be updating it when I have the time.<br>
-                  I also research various IT and software subjects for my job. Most of the time I need to learn best practices before I'm able to work on another application for the CPES websites and IT systems. Preparing for most situations and truly learning a subject before implementing a new system has saved a lot of time and man-hours in the future.
+                  I also research various IT and software subjects for my job. Most of the time I need to learn best practices before I'm able to work on another application for the CPES websites and IT systems. Preparing for most situations and truly learning a subject before implementing a new system has saved a lot of time and man-hours in the future.<br>
+                  Having a good life outside of work is also important. I try to learn a new skill every year and spend as much time with my loved ones as I can.
                 </p>
               </div>
             </div>
@@ -118,7 +121,7 @@
                   I plan on using Azure as a main cloud provider for personal and work projects.<br>
                   <b>Work:</b> An Azure Data Lake is being set up for CPES archives. Using the REST API we plan to provide a brief snapshot of the files inside the archive for Staff and Faculty. This information will be stored in a MariaDB to prevent too many queries.<br>
                   <b>Personal:</b> I plan on using a few PaaS/SaaS resources to build my portfolio.<br>
-                  I'm working on my AZ-900 Certification Exam.
+                  I'm working on my AZ-204 Certification Exam.
                 </p>
               </div>
             </div>
